@@ -1,0 +1,4 @@
+body .calc-checkbox-item input[type=checkbox]:checked ~ label:before {
+    border: 1px solid #1B365D !important;
+    background-color: #1B365D !important;
+}
