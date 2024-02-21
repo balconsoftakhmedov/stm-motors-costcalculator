@@ -26228,7 +26228,14 @@ var parseDescriptions = function parseDescriptions(data) {
 						unit: 1,
 						value: 1
 					};
-				finalDescription.push(additionalInfo);
+					const checkbox = document.getElementById('option__stmshowintotal');
+					if (checkbox && checkbox.checked && checkbox.value === 'true') {
+						finalDescription.push(additionalInfo);
+						console.log("Checkbox is checked and its value is true");
+					} else {
+						console.log("Checkbox is not checked or its value is not true");
+					}
+				
 				} else {
 				    console.error("Element with class 'calc-subtotal-list totals' not found.");
 				}
