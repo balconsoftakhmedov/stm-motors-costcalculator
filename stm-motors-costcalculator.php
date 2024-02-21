@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name: STM Costcaluculator Custom
+ * Plugin Name: STM Costcalculator Custom
  * Plugin URI:  https://stylemixthemes.com/
  * Description: STM WordPress Csutom Plugin
  * Version:     1.0.0

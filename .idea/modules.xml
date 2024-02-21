@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../cost-calculator-builder/.idea/cost-calculator-builder.iml" filepath="$PROJECT_DIR$/../cost-calculator-builder/.idea/cost-calculator-builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../cost-calculator-builder-pro/.idea/cost-calculator-builder-pro.iml" filepath="$PROJECT_DIR$/../cost-calculator-builder-pro/.idea/cost-calculator-builder-pro.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/stm-motors-costcalculator.iml" filepath="$PROJECT_DIR$/.idea/stm-motors-costcalculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../stylemixthemes-cost-calculator-free-v3-d0371e84d489/.idea/stylemixthemes-cost-calculator-free-v3-d0371e84d489.iml" filepath="$PROJECT_DIR$/../stylemixthemes-cost-calculator-free-v3-d0371e84d489/.idea/stylemixthemes-cost-calculator-free-v3-d0371e84d489.iml" />
     </modules>
   </component>
 </project>

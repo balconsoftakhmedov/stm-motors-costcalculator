@@ -4,5 +4,8 @@
     <content url="file://$MODULE_DIR$" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="cost-calculator-builder" />
+    <orderEntry type="module" module-name="cost-calculator-builder-pro" />
+    <orderEntry type="module" module-name="stylemixthemes-cost-calculator-free-v3-d0371e84d489" />
   </component>
 </module>
